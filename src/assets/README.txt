@@ -1,0 +1,1 @@
+Put your optional personal images, screenshots and other local assets in this folder.
